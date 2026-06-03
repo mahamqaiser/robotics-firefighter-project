@@ -25,4 +25,4 @@ This project demonstrates robotics concepts including autonomous navigation, int
 ![Simulation](Screenshots/simulation_start.png)
 
 ### Fire Detection
-![Fire Detection](Screenshots/fire_detected.png)
+![Fire Detection](Screenshots/fire_extinguished.png)
