@@ -18,3 +18,11 @@ A Python-based autonomous Firefighter Robot simulation that detects and extingui
 
 ## Learning Outcomes
 This project demonstrates robotics concepts including autonomous navigation, intelligent decision-making, path planning, and control systems.
+
+## Screenshots
+
+### Simulation Environment
+![Simulation](Screenshots/simulation_start.png)
+
+### Fire Detection
+![Fire Detection](Screenshots/fire_detected.png)
